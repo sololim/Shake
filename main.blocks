@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="sXrZ*X%[6j~mtayNs:E-" x="478" y="313"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id=".83e~ys*TI=P$txd-9[~"><value name="text"><shadow type="text" id="Th%7I=4k)Jhhow_3hH8x"><field name="TEXT">Hello mama !</field></shadow></value><next><block type="basic_show_icon" id="=,KZ5`2qzR9UyzwT7,[}"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="~0e~z[/(tk7Q:Y{?)C}E"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_print_message" id="UF5/;bpMMGKD2vQc?1lw"><value name="text"><shadow type="text" id=",pPBT0d)c@/^W`$)Cz{X"><field name="TEXT">I love you mama</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
